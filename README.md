@@ -1,2 +1,2 @@
-### username : Test
+### email : Test
 ### password : 1234
